@@ -8,7 +8,7 @@
 - [x] Proficient in Java ☕
 - [x] Proficient in Python 🐍
 - [x] Proficient in C 📠
-- [ ] Graduated with a Computer Programming Degree
+- [ ] Graduated with a Computer Programming Degree 🖥️
 
 #### Current Projects
 A polling application for IoS/Android 📱
