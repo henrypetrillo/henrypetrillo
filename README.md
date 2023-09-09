@@ -1,10 +1,6 @@
 ### Hello, my name is Henry Petrillo and this is a README to introduce myself. Listed below are some hobbies, interests, goals, and current projects.
 
-
-**henrypetrillo/henrypetrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+| collumn 1 | 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
