@@ -11,14 +11,14 @@
 - [ ] Graduated with a Computer Programming Degree
 
 #### Current Projects
-A polling application for IoS/Android
+A polling application for IoS/Android 📱
 <details>
   <summary>Click here to read more!</summary>
 
   *The application is still in the planning phase. I am working on the development aspects of the application while my friend helps with the business/management aspects of the project. It's something that I'm very excited to develop as it will force me to learn more about C, and potentially C++ and C# in order to make the best application possible.*
   
 </details>
-NFL Football Predictive Model
+NFL Football Predictive Model 🏈
 <details>
   <summary>Click here to read more!</summary>
 
@@ -26,9 +26,11 @@ NFL Football Predictive Model
   
 </details>
 
-Daily Planner Application
+Daily Planner Application 📓
 <details>
   <summary>Click here to read more!</summary>
 
   *I had created a program similar to this idea using C, however C is becoming an outdated language. I would like to update it to be written in Python. I have attached the repo [here](C:\Users\henry\Desktop\School\Spring 2023\CSIT 238 - C\Final Project)
 </details>
+
+![riza-hawkeye-fmab](https://github.com/henrypetrillo/henrypetrillo/assets/128408264/e13c1f40-4a2a-4f05-bce2-bd370d63741c)
