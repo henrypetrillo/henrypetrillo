@@ -1,9 +1,9 @@
 ### Hello, my name is Henry Petrillo and this is a README to introduce myself. Listed below are some hobbies, interests, goals, and current projects.
 
-**------------------------**
-[x] Proficient in Java
-[x] Proficient in Python
-[x] Proficient in C
+**------------------------**\n
+- [x] Proficient in Java
+- [x] Proficient in Python
+- [x] Proficient in C\n
 **------------------------**
 
 - 🔭 I’m currently working on ...
