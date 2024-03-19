@@ -1,21 +1,19 @@
 ## Hi there! :wave:
 
 ### Name: Henry Petrillo
-### Age: 21
-### Pronouns: he/him
+### Age: 22
 
 #### Qualifications
 - [x] Proficient in Java ☕
 - [x] Proficient in Python 🐍
 - [x] Proficient in C 📠
-- [ ] Graduated with a Computer Programming Degree 🖥️
 
 #### Current Projects
-A polling application for IoS/Android 📱
+Minecraft Pickaxe System for a Prison Server
 <details>
   <summary>Click here to read more!</summary>
 
-  *The application is still in the planning phase. I am working on the development aspects of the application while my friend helps with the business/management aspects of the project. It's something that I'm very excited to develop as it will force me to learn more about C, and potentially C++ and C# in order to make the best application possible.*
+  *The application is still in the planning phase. I have taken this up as a passion project because of my love of Minecraft. It's not meant to be distributed or sold/used for financial gain in any form.*
   
 </details>
 NFL Football Predictive Model 🏈
